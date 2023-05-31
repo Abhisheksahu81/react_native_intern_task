@@ -11,7 +11,7 @@ export const sendMail = async (name , number, email, message)=> {
     const emailData = {
       personalizations: [
         {
-          to: [{ email: 'abhisheksahu871881@gmail.com' }],
+          to: [{ email: 'info@redpositive.in' }],
           subject: 'React Native Intern Task',
         },
       ],
