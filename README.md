@@ -4,7 +4,7 @@
 
 This is a React Native application that allows users to collect data and send it via email using the Axios library and SendGrid API. The app provides a user-friendly interface for inputting data and sending it to a specified email address.
 
-## Screenshots and Demo : [Dtive Folder](https://drive.google.com/drive/folders/160GlnCzFqKeXoXkPSRknw4BHKUEjt815)
+## Screenshots and Demo : [Drive Folder](https://drive.google.com/drive/folders/160GlnCzFqKeXoXkPSRknw4BHKUEjt815)
 
 ## APK file :  https://drive.google.com/file/d/1eb6KqxjqO-g14vnUx89MwMe3F0kwNjGM/view?usp=sharing
 
